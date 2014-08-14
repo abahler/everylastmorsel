@@ -1,0 +1,2 @@
+[17-Feb-2013 03:53:32] PHP Fatal error:  Cannot use object of type Woocommerce as array in /home2/collecu7/public_html/everylastmorsel/recipes/wp-content/themes/rustik/header.php on line 10
+[17-Feb-2013 03:53:36] PHP Fatal error:  Cannot use object of type Woocommerce as array in /home2/collecu7/public_html/everylastmorsel/recipes/wp-content/themes/rustik/header.php on line 10
